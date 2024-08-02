@@ -1,5 +1,7 @@
 output/*
 source/*
+.DS_Store
+
 
 !output/
 !source/
